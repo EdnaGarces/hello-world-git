@@ -100,5 +100,12 @@ Esto es otro texto dividido por asteriscos.
 Esto es otro texto dividido por giones bajos.
 ___
 
+# Saltos de linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercer parrafo.
+- Lista
 
 
